@@ -3242,4 +3242,6 @@ name_given_code[2826] = "dpdz_p"
 code_given_name["dpdz_p"] = 2826
 tex_given_code[2826] = r"$\frac{\partial P^\prime}{\partial z}$"
 
-
+name_given_code[10001] = "chi_a_1"
+code_given_name["chi_a_1"] = 10001
+tex_given_code[10001] = r"$\Chi$"
